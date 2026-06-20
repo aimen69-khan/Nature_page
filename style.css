@@ -59,7 +59,13 @@ body {
 .nav-links a:hover{
     color: rgb(15, 127, 15);
 }
-
+.acc-icon h3{
+    transition: 0.3s ease-in;
+}
+.acc-icon h3:hover{
+    color: rgb(15, 92, 15);
+    cursor: pointer;
+}
 
 /*media query of nav bar*/
 
